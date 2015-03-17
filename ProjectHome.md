@@ -1,0 +1,1 @@
+A Python port of the generator found at http://www.multicians.org/thvv/gpw.html - the goal is to make the base class nice and extensible
